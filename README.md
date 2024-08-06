@@ -3,6 +3,7 @@
 # dataset links
 # Kaggel
 https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks
+https://www.kaggle.com/datasets/ymirsky/network-attack-dataset-kitsune
 # UCI
 https://archive.ics.uci.edu/dataset/869/shell+commands+used+by+participants+of+hands-on+cybersecurity+training
 # paperswithcode
