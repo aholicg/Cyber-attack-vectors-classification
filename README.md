@@ -6,3 +6,5 @@ https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks
 # UCI
 https://archive.ics.uci.edu/dataset/869/shell+commands+used+by+participants+of+hands-on+cybersecurity+training
 # paperswithcode
+https://paperswithcode.com/dataset/edge-iiotset
+https://paperswithcode.com/paper/automatic-mapping-of-unstructured-cyber
